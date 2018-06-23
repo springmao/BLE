@@ -1,0 +1,13 @@
+{
+  "commitish" : "4.1.3",
+  "iOS" : [
+    {
+      "name" : "Zip",
+      "hash" : "3bacc6e9d41bebf80d124f393e2d69e0e320c2a74719516d457d846b38f6455c"
+    },
+    {
+      "name" : "iOSDFULibrary",
+      "hash" : "b41527b379e382fc8fce594226f0672be8446a7f9b315f5d5269c045caa87941"
+    }
+  ]
+}

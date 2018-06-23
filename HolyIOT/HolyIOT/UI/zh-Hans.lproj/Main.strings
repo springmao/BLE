@@ -1,0 +1,63 @@
+
+/* Class = "UILabel"; text = "UUID"; ObjectID = "3ln-Ep-3Rc"; */
+"3ln-Ep-3Rc.text" = "UUID";
+
+/* Class = "UILabel"; text = "Y: 0.0"; ObjectID = "3yQ-zg-ljW"; */
+"3yQ-zg-ljW.text" = "Y: 0.0";
+
+/* Class = "UILabel"; text = "Value"; ObjectID = "9Hg-Dy-d5S"; */
+"9Hg-Dy-d5S.text" = "Value";
+
+/* Class = "UIViewController"; title = "DeviceList"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "DeviceList";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Egb-iP-w3Y"; */
+"Egb-iP-w3Y.text" = "Name";
+
+/* Class = "UIViewController"; title = "SFL"; ObjectID = "HTa-Fl-xnd"; */
+"HTa-Fl-xnd.title" = "SFL";
+
+/* Class = "UILabel"; text = "Legend:"; ObjectID = "K5M-UI-4Mk"; */
+"K5M-UI-4Mk.text" = "Legend:";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "WIr-I0-nGy"; */
+"WIr-I0-nGy.text" = "Name";
+
+/* Class = "UILabel"; text = "Connection"; ObjectID = "Y8f-Je-6bt"; */
+"Y8f-Je-6bt.text" = "Connection";
+
+/* Class = "UINavigationItem"; title = "DeviceList"; ObjectID = "bzA-gM-omo"; */
+"bzA-gM-omo.title" = "DeviceList";
+
+/* Class = "UILabel"; text = "Peripheral Name"; ObjectID = "eKV-B3-J90"; */
+"eKV-B3-J90.text" = "Peripheral Name";
+
+/* Class = "UIButton"; normalTitle = "Firmware update"; ObjectID = "hY7-2X-hBv"; */
+"hY7-2X-hBv.normalTitle" = "Firmware update";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "ioj-Y3-Pgh"; */
+"ioj-Y3-Pgh.text" = "Status";
+
+/* Class = "UIViewController"; title = "Device"; ObjectID = "tkO-AX-NrO"; */
+"tkO-AX-NrO.title" = "Device";
+
+/* Class = "UINavigationItem"; title = "Firmware Update"; ObjectID = "u9R-9K-rDv"; */
+"u9R-9K-rDv.title" = "Firmware Update";
+
+/* Class = "UILabel"; text = "Upload Status"; ObjectID = "uEd-nU-1mg"; */
+"uEd-nU-1mg.text" = "Upload Status";
+
+/* Class = "UILabel"; text = "Scan"; ObjectID = "uX8-H6-NSm"; */
+"uX8-H6-NSm.text" = "Scan";
+
+/* Class = "UILabel"; text = "Power"; ObjectID = "ufj-1m-4NE"; */
+"ufj-1m-4NE.text" = "Power";
+
+/* Class = "UIButton"; normalTitle = "Stop Process"; ObjectID = "vfE-Gv-CG8"; */
+"vfE-Gv-CG8.normalTitle" = "Stop Process";
+
+/* Class = "UILabel"; text = "X: 0.0"; ObjectID = "xlv-Aq-CsH"; */
+"xlv-Aq-CsH.text" = "X: 0.0";
+
+/* Class = "UILabel"; text = "Z: 0.0"; ObjectID = "yBO-fh-Hf4"; */
+"yBO-fh-Hf4.text" = "Z: 0.0";
